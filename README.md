@@ -7,7 +7,7 @@ For example, the following two linked lists:
 
 begin to intersect at node c1.
 
- 
+![images](https://github.com/eric82714/LeetCode_160--Intersection-of-Two-Linked-Lists/blob/master/images/example.PNG)
 
 # Example 1:
 
