@@ -40,7 +40,7 @@ Input Explanation: From the head of A, it reads as [2,6,4]. From the head of B, 
 Explanation: The two lists do not intersect, so return null.
  
 
-Notes:
+# Notes:
 
 If the two linked lists have no intersection at all, return null.
 
